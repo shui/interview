@@ -4,6 +4,7 @@
 * Java
   * [接口与抽象类](java/interfaces/1.md)
 * [JVM](jvm/README.md)
+  * [JVM内存模型](jvm/1.md)
 * [Docker](docker/README.md)
   * [简单介绍Docker](docker/1.md)
   * [Docker和虚拟机的区别](docker/2.md)
