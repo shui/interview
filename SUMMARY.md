@@ -17,5 +17,6 @@
 * 计算机网络
   * HTTP
     * [HTTP请求方法](network/http/1.md)
+    * [HTTP方法中GET和POST的区别](network/http/2.md)
 * [经典问题](q/README.md)
   * [赛马问题](q/1.md)
