@@ -14,6 +14,8 @@
   * 基础
     * [详细设计数据库的步骤](database/base/1.md)
     * [数据库1NF、2NF、3NF、BCNF](database/base/2.md)
+    * [事务和ACID](database/q/3.md)
+    * [事务处理机制——乐观锁和悲观锁](database/base/4.md)
 * 计算机网络
   * HTTP
     * [HTTP请求方法](network/http/1.md)
