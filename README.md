@@ -56,7 +56,7 @@ TODO:
     * 复习RabbitMQ的原理
     * 有时间了解下Kafka和ActiveMQ Apollo
   * web
-    * Session和Cookie
+    * ~Session和Cookie~
   * ORM
     * Hibernate和MyBatis的区别和优缺点
   * Servlet
