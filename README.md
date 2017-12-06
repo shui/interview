@@ -22,7 +22,7 @@ TODO:
   * GROUP BY和HAVING的用法
   * 一致性Hash
   * ~左右连接外连接内连接~
-  * MySQL引擎种类及区别
+  * ~MySQL引擎种类及区别~
   * MySQL缓存？
   * 数据库约束
 * Java
