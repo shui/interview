@@ -25,6 +25,7 @@
     * [Session和Cookie](network/http/3.md)
 * 操作系统
   * [进程和线程的区别](os/1.md)
+  * [死锁和必要条件及解决方法](os/2.md)
 * Web Dev
   * Servlet
     * [生命周期](webdev/servlet/1.md)
