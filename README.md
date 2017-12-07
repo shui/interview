@@ -28,6 +28,8 @@ TODO:
 * Java
   * 关键词:transient、native、volatile
   * concurrent包（这块咋看完啊……）
+    * Fork/Join
+    * ConcurrentLinkedQueue
   * HashTable、HashMap和ConcurrentHashMap的区别
   * 反射和代理
   * i = i++

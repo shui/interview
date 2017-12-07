@@ -5,11 +5,12 @@
   * Base
     * [接口与抽象类](java/interfaces/1.md)
     * [字符串常量池](java/strings/1.md)
-  * 并发
+  * [并发](java/concurrency/README.md)
     * [volatile](java/concurrency/1.md)
     * [synchronized](java/concurrency/2.md)
     * [线程池](java/concurrency/3.md)
     * [ConcurrentMap](java/concurrency/4.md)
+    * [CAS](java/concurrency/5.md)
 * [JVM](jvm/README.md)
   * [JVM内存模型](jvm/1.md)
 * [Docker](docker/README.md)
