@@ -2,8 +2,11 @@
 
 * [Introduction](README.md)
 * Java
-  * [接口与抽象类](java/interfaces/1.md)
-  * [字符串常量池](java/strings/1.md)　
+  * Base
+    * [接口与抽象类](java/interfaces/1.md)
+    * [字符串常量池](java/strings/1.md)
+  * 并发
+    * [volatile](java/concurrency/1.md)
 * [JVM](jvm/README.md)
   * [JVM内存模型](jvm/1.md)
 * [Docker](docker/README.md)
