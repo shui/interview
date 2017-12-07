@@ -7,6 +7,7 @@
     * [字符串常量池](java/strings/1.md)
   * 并发
     * [volatile](java/concurrency/1.md)
+    * [synchronized](java/concurrency/2.md)
 * [JVM](jvm/README.md)
   * [JVM内存模型](jvm/1.md)
 * [Docker](docker/README.md)
