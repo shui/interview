@@ -12,6 +12,7 @@
     * [ConcurrentMap](java/concurrency/4.md)
     * [CAS](java/concurrency/5.md)
     * [线程状态切换](java/concurrency/6.md)
+    * [sleep和wait区别](java/concurrency/7.md)
 * [JVM](jvm/README.md)
   * [JVM内存模型](jvm/1.md)
 * [Docker](docker/README.md)
