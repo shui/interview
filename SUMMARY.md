@@ -11,6 +11,7 @@
     * [线程池](java/concurrency/3.md)
     * [ConcurrentMap](java/concurrency/4.md)
     * [CAS](java/concurrency/5.md)
+    * [线程状态切换](java/concurrency/6.md)
 * [JVM](jvm/README.md)
   * [JVM内存模型](jvm/1.md)
 * [Docker](docker/README.md)
